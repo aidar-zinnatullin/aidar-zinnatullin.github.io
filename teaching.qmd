@@ -1,0 +1,39 @@
+---
+title: "Teaching"
+---
+
+## RPTU teaching
+
+### Summer Semester
+
+**Scientific evidence and uncertainty in the research of environmental challenges**  
+
+**Scientific inter- and transdisciplinary work and research**  
+
+### Winter Semester
+
+**Advanced Data Analysis**  
+
+**Current concepts to analyse environmental challenges with global impact**  
+
+## UniBo teaching
+
+### SICSS Bologna
+
+**Teaching Assistant, 2022 and 2024** — Summer Institute in Computational Social Science, University of Bologna.
+
+### CyberMondays
+
+**Methods Instructor** — computational social science seminar series.
+
+### Topics taught
+
+- reproducible research with Git and GitHub (version-control concepts, authentication, branching, and merge conflicts);
+- accessing research data through APIs (request methods, authentication, data formats, rate limits, and platform governance);
+- text-as-data workflows (topic modeling, including LDA and Structural Topic Modeling, topic-model selection and validation using coherence, exclusivity, and human-centred checks, keyword-assisted topic modeling and the place of newer approaches such as BERTopic);
+- data provenance, measurement quality, platform-induced bias, and reproducible documentation.
+
+## Data-quality training
+
+I participated in the first cohort of the *KODAQS Data Quality Academy Certificate Program (2024-2025)* <https://www.gesis.org/en/gesis-training/kodaqs-academy/kodaqs-data-quality-academy-certificate-program>. Its train-the-trainer orientation supports the goal of integrating data provenance, access conditions, measurement error, linkage quality, representativeness, and platform bias directly into computational methods teaching.
+

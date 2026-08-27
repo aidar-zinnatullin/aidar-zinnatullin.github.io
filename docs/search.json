@@ -1,0 +1,156 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Scientific evidence and uncertainty in the research of environmental challenges\nScientific inter- and transdisciplinary work and research\n\n\n\nAdvanced Data Analysis\nCurrent concepts to analyse environmental challenges with global impact"
+  },
+  {
+    "objectID": "teaching.html#rptu-teaching",
+    "href": "teaching.html#rptu-teaching",
+    "title": "Teaching",
+    "section": "",
+    "text": "Scientific evidence and uncertainty in the research of environmental challenges\nScientific inter- and transdisciplinary work and research\n\n\n\nAdvanced Data Analysis\nCurrent concepts to analyse environmental challenges with global impact"
+  },
+  {
+    "objectID": "teaching.html#unibo-teaching",
+    "href": "teaching.html#unibo-teaching",
+    "title": "Teaching",
+    "section": "UniBo teaching",
+    "text": "UniBo teaching\n\nSICSS Bologna\nTeaching Assistant, 2022 and 2024 — Summer Institute in Computational Social Science, University of Bologna.\n\n\nCyberMondays\nMethods Instructor — computational social science seminar series.\n\n\nTopics taught\n\nreproducible research with Git and GitHub (version-control concepts, authentication, branching, and merge conflicts);\naccessing research data through APIs (request methods, authentication, data formats, rate limits, and platform governance);\ntext-as-data workflows (topic modeling, including LDA and Structural Topic Modeling, topic-model selection and validation using coherence, exclusivity, and human-centred checks, keyword-assisted topic modeling and the place of newer approaches such as BERTopic);\ndata provenance, measurement quality, platform-induced bias, and reproducible documentation."
+  },
+  {
+    "objectID": "teaching.html#data-quality-training",
+    "href": "teaching.html#data-quality-training",
+    "title": "Teaching",
+    "section": "Data-quality training",
+    "text": "Data-quality training\nI participated in the first cohort of the KODAQS Data Quality Academy Certificate Program (2024-2025) https://www.gesis.org/en/gesis-training/kodaqs-academy/kodaqs-data-quality-academy-certificate-program. Its train-the-trainer orientation supports the goal of integrating data provenance, access conditions, measurement error, linkage quality, representativeness, and platform bias directly into computational methods teaching."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Aidar Zinnatullin",
+    "section": "",
+    "text": "I am a postdoctoral researcher at RPTU Kaiserslautern-Landau. My work combines political communication, comparative politics, and computational social science. I study grievance articulation, political mobilization, polarization, and public evaluations of institutions and expertise.\n\n\n Back to top"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Since Dec 2023 — Postdoctoral Researcher, Institute of Communication Psychology and Media Education, RPTU University Kaiserslautern-Landau\n2022–2024 — Research Fellow, Computational Social Science Center, University of Bologna"
+  },
+  {
+    "objectID": "cv.html#appointments",
+    "href": "cv.html#appointments",
+    "title": "CV",
+    "section": "",
+    "text": "Since Dec 2023 — Postdoctoral Researcher, Institute of Communication Psychology and Media Education, RPTU University Kaiserslautern-Landau\n2022–2024 — Research Fellow, Computational Social Science Center, University of Bologna"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\n\n2024 — PhD in Political and Social Sciences, University of Bologna\n2014–2017 — Graduate studies in Political Science, Kazan Federal University\n2014 — Degree in Political Science, Kazan Federal University"
+  },
+  {
+    "objectID": "cv.html#current-research-and-funding-activity",
+    "href": "cv.html#current-research-and-funding-activity",
+    "title": "CV",
+    "section": "Current research and funding activity",
+    "text": "Current research and funding activity\n\n2026 — Principal applicant, DFG research proposal: Performative or Substantive? Determinants and Effects of Responsiveness in Autocracies — under review\nResearch programme on digital grievance systems, authoritarian responsiveness, protest, and public evaluations of government communication\nResearch on science communication, uncertainty, and the politicization of expertise"
+  },
+  {
+    "objectID": "cv.html#selected-publications",
+    "href": "cv.html#selected-publications",
+    "title": "CV",
+    "section": "Selected publications",
+    "text": "Selected publications\n\nZinnatullin, A. (2026). Grievance forums in autocracies: Surrogates for protest or instruments of control? The British Journal of Politics and International Relations. https://doi.org/10.1177/13691481261447631\nKogel, M. J., & Zinnatullin, A. What drives affective polarization? A systematic literature review. European Political Science. Forthcoming.\nZinnatullin, A., Fock, L., & Barkela, B. (2026). Evidence in the service of dissent. Journal of Science Communication.\nZinnatullin, A. (2024). Authoritarian responsiveness online. Policy Studies.\nZinnatullin, A. (2023). Political discussions in online oppositional communities in the non-democratic context. Computational Communication Research.\nZinnatullin, A. (2023). Navalny’s direct-casting. First Monday.\n\nFull publication list →"
+  },
+  {
+    "objectID": "cv.html#teaching",
+    "href": "cv.html#teaching",
+    "title": "CV",
+    "section": "Teaching",
+    "text": "Teaching\n\nRPTU University Kaiserslautern-Landau\n\nScientific evidence and uncertainty in the research of environmental challenges (ENCHURE)\nScientific inter- and transdisciplinary work and research (MuU)\nAdvanced Data Analysis (ENCHURE)\nCurrent concepts to analyse environmental challenges with global impact (ENCHURE)\n\n\n\nMethods instruction\n\nSICSS Bologna — Teaching Assistant, 2022 and 2024\nCyberMondays — Methods Instructor\nTopics include Git/GitHub, APIs, reproducible workflows, topic modeling, STM, model validation, and data quality"
+  },
+  {
+    "objectID": "cv.html#mentoring",
+    "href": "cv.html#mentoring",
+    "title": "CV",
+    "section": "Mentoring",
+    "text": "Mentoring\n\nMaster’s research internship collaboration resulting in a co-authored article accepted for publication in European Political Science"
+  },
+  {
+    "objectID": "cv.html#methods",
+    "href": "cv.html#methods",
+    "title": "CV",
+    "section": "Methods",
+    "text": "Methods\n\nComputational text analysis and NLP\nWeb scraping and dynamic-platform data collection\nNatural Language Inference and supervised classification\nTopic modeling and systematic content validation\nPanel, multilevel, fixed-effects, and generalized synthetic-control methods\nSurvey and conjoint-style experimental design\nSystematic reviews and reproducible evidence synthesis"
+  },
+  {
+    "objectID": "cv.html#professional-development",
+    "href": "cv.html#professional-development",
+    "title": "CV",
+    "section": "Professional development",
+    "text": "Professional development\n\n2024–2025 — KODAQS Data Quality Academy Certificate Program, first cohort"
+  },
+  {
+    "objectID": "cv.html#research-stays",
+    "href": "cv.html#research-stays",
+    "title": "CV",
+    "section": "Research stays",
+    "text": "Research stays\n\n2023 — Chair of Digital Governance, Technical University of Munich (six months)\n2016–2017 — Erasmus internship, School of Political Science, University of Bologna, Forlì campus (six months)"
+  },
+  {
+    "objectID": "cv.html#research-interests",
+    "href": "cv.html#research-interests",
+    "title": "CV",
+    "section": "Research interests",
+    "text": "Research interests\n\nPolitical communication\nDigital authoritarianism and governance\nProtest, polarization, and contentious politics\nScience communication and uncertainty\nComputational and quantitative methods"
+  },
+  {
+    "objectID": "cv.html#contact",
+    "href": "cv.html#contact",
+    "title": "CV",
+    "section": "Contact",
+    "text": "Contact\n\nInstitution: RPTU University Kaiserslautern-Landau\nAddress: Fortstraße 7, Building K, Room K 5.19, 76829 Landau, Germany\nEmail: aidar.zinnatullin@rptu.de\nORCID: https://orcid.org/0000-0001-9465-044X\nGitHub: https://github.com/aidar-zinnatullin"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications and Presentation",
+    "section": "",
+    "text": "Kogel, M. J., & Zinnatullin, A. (2026). What drives affective polarization? A systematic literature review. European Political Science. https://doi.org/10.1017/S1682098326100642\nZinnatullin, A. (2026). Grievance forums in autocracies: Surrogates for protest or instruments of control? The British Journal of Politics and International Relations, 1–29. https://doi.org/10.1177/13691481261447631\nZinnatullin, A., & Barkela, B. (2026). News under pressure? Politicization of scientific expertise in German mainstream news during COVID-19. Political Research Exchange, 8 (1). https://doi.org/10.1080/2474736X.2026.2682400\nZinnatullin, A., Fock, L., & Barkela, B. (2026). Evidence in the service of dissent: Strategic communication of science by German corona-protest movements. Journal of Science Communication, 25 (1). https://doi.org/10.22323/225220251221034603\nZinnatullin, A. (2025). Authoritarian responsiveness online: Social media strategy of Russian regional governance centers. Policy Studies, 46 (5), 653–675. https://doi.org/10.1080/01442872.2024.2376082\nZinnatullin, A. (2023). Political discussions in online oppositional communities in the non-democratic context. Computational Communication Research, 5 (1). https://doi.org/10.5117/CCR2023.1.7.ZINN\nZinnatullin, A. (2023). Navalny’s direct-casting: Affective attunement and polarization in the online community of the most vocal Russian opposition politician. First Monday, 28 (10). https://doi.org/10.5210/fm.v28i10.12882\nMarchesi, A., Zinnatullin, A., & Nanni, R. (2022). #iononmiinginocchio: Sports politicisation in the Italian Twitter space. Text data analysis of the Italian public opinion. Comunicazione Politica, 23 (2), 185-206. https://doi.org/10.3270/104848"
+  },
+  {
+    "objectID": "publications.html#articles",
+    "href": "publications.html#articles",
+    "title": "Publications and Presentation",
+    "section": "",
+    "text": "Kogel, M. J., & Zinnatullin, A. (2026). What drives affective polarization? A systematic literature review. European Political Science. https://doi.org/10.1017/S1682098326100642\nZinnatullin, A. (2026). Grievance forums in autocracies: Surrogates for protest or instruments of control? The British Journal of Politics and International Relations, 1–29. https://doi.org/10.1177/13691481261447631\nZinnatullin, A., & Barkela, B. (2026). News under pressure? Politicization of scientific expertise in German mainstream news during COVID-19. Political Research Exchange, 8 (1). https://doi.org/10.1080/2474736X.2026.2682400\nZinnatullin, A., Fock, L., & Barkela, B. (2026). Evidence in the service of dissent: Strategic communication of science by German corona-protest movements. Journal of Science Communication, 25 (1). https://doi.org/10.22323/225220251221034603\nZinnatullin, A. (2025). Authoritarian responsiveness online: Social media strategy of Russian regional governance centers. Policy Studies, 46 (5), 653–675. https://doi.org/10.1080/01442872.2024.2376082\nZinnatullin, A. (2023). Political discussions in online oppositional communities in the non-democratic context. Computational Communication Research, 5 (1). https://doi.org/10.5117/CCR2023.1.7.ZINN\nZinnatullin, A. (2023). Navalny’s direct-casting: Affective attunement and polarization in the online community of the most vocal Russian opposition politician. First Monday, 28 (10). https://doi.org/10.5210/fm.v28i10.12882\nMarchesi, A., Zinnatullin, A., & Nanni, R. (2022). #iononmiinginocchio: Sports politicisation in the Italian Twitter space. Text data analysis of the Italian public opinion. Comunicazione Politica, 23 (2), 185-206. https://doi.org/10.3270/104848"
+  },
+  {
+    "objectID": "publications.html#data-and-research-resources",
+    "href": "publications.html#data-and-research-resources",
+    "title": "Publications and Presentation",
+    "section": "Data and research resources",
+    "text": "Data and research resources\n\nAlbertini, M., Giacomello, G., & Zinnatullin, A. (2025). Russian military bloggers: Corpus and dataset of collected posts, 2022–2023. Data in Brief, 63 (112015). https://doi.org/10.1016/j.dib.2025.112015\nValeriani, A., Ceccobelli, D., Zinnatullin, A., Mechkova, V., Pemstein, D., Seim, B., & Wilson, S. (2025). Italy 2022 Candidate Dataset. Digital Society Project. https://digitalsocietyproject.org/candidate-data/"
+  },
+  {
+    "objectID": "publications.html#selected-conference-presentations",
+    "href": "publications.html#selected-conference-presentations",
+    "title": "Publications and Presentation",
+    "section": "Selected conference presentations",
+    "text": "Selected conference presentations\n\n2026\n\nZinnatullin, A., & Valeriani, A. How Polarisation Content Circulates in Italian Media: Evidence from Print and Online Editions, 8th Annual COMPTEXT Conference, University of Birmingham.\nData Quality Workshop in Munich\n\n\n\n2025\n\nSICSS-Saarbrücken\nZinnatullin, A., Barkela, B., & Maier, M. “Conflict and Uncertainty as Drivers of Politicization of Socio-Scientific Issues: Media Dynamics During the COVID-19 Pandemic”, ECPR General Conference 2025, Aristotle University of Thessaloniki, Greece, 26 August 2025.\nZinnatullin, A. Quiet Resistance? Grievance Forums as Surrogates for Suppressed Public Protest in Autocracies, ECPR General Conference 2025, Aristotle University of Thessaloniki, Greece, 26 August 2025.\nZinnatullin, A., Barkela, B., & Maier, M. News under pressure? Politicization of German mainstream media in times of crisis and uncertainty. 7th Annual COMPTEXT Conference, University of Vienna.\nZinnatullin, A. Voices and responses: A large-scale text classification of citizens’ complaints under authoritarian regime. 7th Annual COMPTEXT Conference, University of Vienna.\n\n\n\n2024\n\nZinnatullin, A., Barkela, B., Fock, L., & Maier, M. From skepticism to motivated reasoning: How do corona protesters strategically use scientific uncertainty? ECPR General Conference, Dublin.\nZinnatullin, A., Barkela, B., & Maier, M. Communication in crisis and uncertainty: When and to what extent do mainstream media become politicized? CPSS / KONVENS.\nZinnatullin, A. Dissecting disagreements in Russian pro-war Telegram channels. 6th Annual COMPTEXT Conference, Vrije Universiteit Amsterdam.\nZinnatullin, A. Struggling for the narrative: Digital media and affective polarization in the non-democratic context. I-POLHYS, Bologna.\n\n\n\n2023\n\nECPR General Conference in Prague, IC2S2 in Copenhagen, ICA regional conference in Helsinki."
+  },
+  {
+    "objectID": "publications.html#public-engagement",
+    "href": "publications.html#public-engagement",
+    "title": "Publications and Presentation",
+    "section": "Public engagement",
+    "text": "Public engagement\n\nZinnatullin, A. (2025). Wissenschaftlich bewiesen. Oder doch nicht? Was hinter der wissenschaftlichen Expertise in den deutschen Medien während COVID steckte (in Russian). PropaWeek, Berlin. https://lab-wir.de/stimmenvielfalt/propaweek/de#rec981803521"
+  }
+]

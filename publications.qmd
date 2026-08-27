@@ -1,0 +1,64 @@
+---
+title: "Publications and Presentation"
+---
+## Articles
+
+- Kogel, M. J., & **Zinnatullin, A.** (2026). *What drives affective polarization? A systematic literature review*. **European Political Science**. <https://doi.org/10.1017/S1682098326100642>
+
+- **Zinnatullin, A.** (2026). *Grievance forums in autocracies: Surrogates for protest or instruments of control?* **The British Journal of Politics and International Relations**, 1–29. <https://doi.org/10.1177/13691481261447631>
+
+- **Zinnatullin, A.**, & Barkela, B. (2026). *News under pressure? Politicization of scientific expertise in German mainstream news during COVID-19*. **Political Research Exchange**, 8 (1). <https://doi.org/10.1080/2474736X.2026.2682400>
+
+- **Zinnatullin, A.**, Fock, L., & Barkela, B. (2026). *Evidence in the service of dissent: Strategic communication of science by German corona-protest movements*. **Journal of Science Communication**, 25 (1). <https://doi.org/10.22323/225220251221034603>
+
+- **Zinnatullin, A.** (2025). *Authoritarian responsiveness online: Social media strategy of Russian regional governance centers*. **Policy Studies**, 46 (5), 653–675. <https://doi.org/10.1080/01442872.2024.2376082>
+
+- **Zinnatullin, A.** (2023). *Political discussions in online oppositional communities in the non-democratic context*. **Computational Communication Research**, 5 (1). <https://doi.org/10.5117/CCR2023.1.7.ZINN>
+
+- **Zinnatullin, A.** (2023). *Navalny's direct-casting: Affective attunement and polarization in the online community of the most vocal Russian opposition politician*. **First Monday**, 28 (10). <https://doi.org/10.5210/fm.v28i10.12882>
+
+- Marchesi, A., **Zinnatullin, A.**, & Nanni, R. (2022). *#iononmiinginocchio: Sports politicisation in the Italian Twitter space. Text data analysis of the Italian public opinion*. **Comunicazione Politica**, 23 (2), 185-206. <https://doi.org/10.3270/104848>
+
+## Data and research resources
+
+- Albertini, M., Giacomello, G., & **Zinnatullin, A.** (2025). *Russian military bloggers: Corpus and dataset of collected posts, 2022–2023*. **Data in Brief**, 63 (112015). <https://doi.org/10.1016/j.dib.2025.112015>
+
+- Valeriani, A., Ceccobelli, D., **Zinnatullin, A.**, Mechkova, V., Pemstein, D., Seim, B., & Wilson, S. (2025). *Italy 2022 Candidate Dataset*. Digital Society Project. <https://digitalsocietyproject.org/candidate-data/>
+
+## Selected conference presentations
+
+### 2026
+
+- **Zinnatullin, A., & Valeriani, A.** *How Polarisation Content Circulates in Italian Media: Evidence from Print and Online Editions*, 8th Annual COMPTEXT Conference, University of Birmingham.
+
+- Data Quality Workshop in Munich
+
+### 2025
+
+- SICSS-Saarbrücken
+
+- **Zinnatullin, A.**, Barkela, B., & Maier, M. "Conflict and Uncertainty as Drivers of Politicization of Socio-Scientific Issues: Media Dynamics During the COVID-19 Pandemic",  ECPR General Conference 2025, Aristotle University of Thessaloniki, Greece, 26 August 2025.
+
+- **Zinnatullin, A.** *Quiet Resistance? Grievance Forums as Surrogates for Suppressed Public Protest in Autocracies*, ECPR General Conference 2025, Aristotle University of Thessaloniki, Greece, 26 August 2025.
+
+- **Zinnatullin, A.**, Barkela, B., & Maier, M. *News under pressure? Politicization of German mainstream media in times of crisis and uncertainty*. 7th Annual COMPTEXT Conference, University of Vienna.
+
+- **Zinnatullin, A.** *Voices and responses: A large-scale text classification of citizens' complaints under authoritarian regime*. 7th Annual COMPTEXT Conference, University of Vienna.
+
+### 2024
+
+- **Zinnatullin, A.**, Barkela, B., Fock, L., & Maier, M. *From skepticism to motivated reasoning: How do corona protesters strategically use scientific uncertainty?* ECPR General Conference, Dublin.
+
+- **Zinnatullin, A.**, Barkela, B., & Maier, M. *Communication in crisis and uncertainty: When and to what extent do mainstream media become politicized?* CPSS / KONVENS.
+
+- **Zinnatullin, A.** *Dissecting disagreements in Russian pro-war Telegram channels*. 6th Annual COMPTEXT Conference, Vrije Universiteit Amsterdam.
+
+- **Zinnatullin, A.** *Struggling for the narrative: Digital media and affective polarization in the non-democratic context*. I-POLHYS, Bologna.
+
+### 2023
+
+- ECPR General Conference in Prague, IC2S2 in Copenhagen, ICA regional conference in Helsinki.
+
+## Public engagement
+
+- **Zinnatullin, A.** (2025). *Wissenschaftlich bewiesen. Oder doch nicht? Was hinter der wissenschaftlichen Expertise in den deutschen Medien während COVID steckte* (in Russian). PropaWeek, Berlin. <https://lab-wir.de/stimmenvielfalt/propaweek/de#rec981803521>

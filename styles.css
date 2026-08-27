@@ -1,0 +1,172 @@
+:root {
+  --az-navy: #183a5a;
+  --az-blue: #2c6596;
+  --az-teal: #167d78;
+  --az-gold: #b7791f;
+  --az-bg: #f5f8fb;
+  --az-card: #ffffff;
+  --az-border: #dce5ee;
+  --az-text: #243142;
+  --az-muted: #5f6c7b;
+}
+
+body {
+  line-height: 1.68;
+  color: var(--az-text);
+}
+
+.navbar {
+  box-shadow: 0 1px 0 rgba(24, 58, 90, 0.10);
+}
+
+.navbar-brand {
+  font-weight: 750;
+  letter-spacing: 0.01em;
+}
+
+.about-entity .about-links .about-link {
+  border-radius: 999px;
+  padding: 0.38rem 0.82rem;
+  background: #edf4fa;
+  border: 1px solid #d8e6f2;
+}
+
+.about-entity .about-links .about-link:hover {
+  background: #dfeefa;
+  text-decoration: none;
+}
+
+.quarto-title-banner {
+  background: linear-gradient(135deg, #f8fbfe 0%, #eef4f9 72%, #e6f2f1 100%);
+}
+
+h1, h2, h3 {
+  color: var(--az-navy);
+}
+
+h2 {
+  margin-top: 2.25rem;
+}
+
+p, li {
+  color: var(--az-text);
+}
+
+.quarto-about-jolla .about-entity {
+  gap: 1.6rem;
+}
+
+.quarto-about-jolla .about-entity img {
+  box-shadow: 0 12px 36px rgba(24, 58, 90, 0.16);
+  border: 4px solid white;
+}
+
+.status-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin: 1.25rem 0 1.75rem;
+}
+
+.status-pill,
+.project-status {
+  display: inline-block;
+  padding: 0.38rem 0.76rem;
+  border-radius: 999px;
+  background: #e9f5f3;
+  border: 1px solid #c8e4df;
+  color: #135e5a;
+  font-size: 0.9rem;
+  font-weight: 650;
+}
+
+.project-status {
+  margin-bottom: 1rem;
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 1.7rem;
+}
+
+.feature-card,
+.highlight-card,
+.course-card,
+.process-step {
+  background: var(--az-card);
+  border: 1px solid var(--az-border);
+  border-radius: 15px;
+  padding: 1.15rem 1.2rem;
+  box-shadow: 0 8px 26px rgba(24, 58, 90, 0.06);
+}
+
+.feature-card h3,
+.highlight-card h3 {
+  margin-top: 0;
+}
+
+.highlight-card {
+  margin: 1rem 0;
+  border-left: 5px solid var(--az-blue);
+}
+
+.course-card {
+  margin: 0.8rem 0;
+  border-left: 5px solid var(--az-teal);
+}
+
+.process-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.8rem;
+  margin: 1.15rem 0;
+}
+
+.process-step {
+  padding: 1rem;
+  background: var(--az-bg);
+}
+
+blockquote {
+  border-left: 4px solid var(--az-blue);
+  padding-left: 1rem;
+  color: var(--az-muted);
+}
+
+.callout-note {
+  border-left-color: var(--az-teal) !important;
+}
+
+.table, table {
+  font-size: 0.97rem;
+}
+
+#title-block-header.quarto-title-block.default .quarto-title-meta {
+  color: var(--az-muted);
+}
+
+.nav-footer {
+  border-top: 1px solid #e3e9ef;
+}
+
+figcaption {
+  color: var(--az-muted);
+  font-size: 0.9rem;
+}
+
+@media (max-width: 900px) {
+  .card-grid {
+    grid-template-columns: 1fr;
+  }
+  .process-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 520px) {
+  .process-grid {
+    grid-template-columns: 1fr;
+  }
+}

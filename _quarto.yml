@@ -1,0 +1,57 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "!projects.qmd"
+    - "!research.qmd"
+website:
+  title: "Aidar Zinnatullin"
+  site-url: "https://aidar-zinnatullin.github.io/"
+  description: "Academic website of Aidar Zinnatullin: computational social science, political communication, and science communication."
+  favicon: profile-placeholder.svg
+  search: true
+  page-navigation: true
+  back-to-top-navigation: true
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+#      - href: research.qmd
+#        text: Research
+#      - href: projects.qmd
+#        text: Projects
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - href: CV.pdf
+        text: CV
+    right:
+      - icon: github
+        href: https://github.com/aidar-zinnatullin
+        aria-label: GitHub
+      - text: ORCID
+        href: https://orcid.org/0000-0001-9465-044X
+      - icon: envelope
+        href: mailto:aidar.zinnatullin@rptu.de
+        aria-label: Email
+  page-footer:
+    left: |
+      © 2026 Aidar Zinnatullin
+    right: |
+      Built with [Quarto](https://quarto.org/)
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    smooth-scroll: true
+    link-external-newwindow: true
+    code-copy: true
+
+execute:
+  freeze: auto

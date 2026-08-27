@@ -1,0 +1,23 @@
+---
+title: "Aidar Zinnatullin"
+about:
+  template: jolla
+  image: IMG_8162-2.jpg
+  image-shape: round
+  links:
+    - icon: mortarboard-fill
+      text: RPTU Kaiserslautern-Landau
+      href: https://psy.rptu.de/en/wus/ikm/communication-psychology/team/dr-aidar-zinnatullin
+    - icon: github
+      text: GitHub
+      href: https://github.com/aidar-zinnatullin
+    - icon: person-badge
+      text: ORCID
+      href: https://orcid.org/0000-0001-9465-044X
+    - icon: envelope
+      text: Email
+      href: mailto:aidar.zinnatullin@rptu.de
+---
+
+I am a postdoctoral researcher at RPTU Kaiserslautern-Landau. My work combines **computational social science**, **comparative politics**, and **political communication**. I study grievance articulation, political mobilization, polarization, and public evaluations of institutions and expertise.
+

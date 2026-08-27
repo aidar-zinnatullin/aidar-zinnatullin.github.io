@@ -1,0 +1,85 @@
+---
+title: "CV"
+---
+
+## Appointments
+
+- **Since Dec 2023** — Postdoctoral Researcher, Institute of Communication Psychology and Media Education, RPTU University Kaiserslautern-Landau
+- **2022–2024** — Research Fellow, Computational Social Science Center, University of Bologna
+
+## Education
+
+- **2024** — PhD in Political and Social Sciences, University of Bologna
+- **2014–2017** — Graduate studies in Political Science, Kazan Federal University
+- **2014** — Degree in Political Science, Kazan Federal University
+
+## Current research and funding activity
+
+- **2026** — Principal applicant, DFG research proposal: *Performative or Substantive? Determinants and Effects of Responsiveness in Autocracies* — **under review**
+- Research programme on digital grievance systems, authoritarian responsiveness, protest, and public evaluations of government communication
+- Research on science communication, uncertainty, and the politicization of expertise
+
+## Selected publications
+
+- **Zinnatullin, A.** (2026). *Grievance forums in autocracies: Surrogates for protest or instruments of control?* **The British Journal of Politics and International Relations**. <https://doi.org/10.1177/13691481261447631>
+- **Kogel, M. J., & Zinnatullin, A.** *What drives affective polarization? A systematic literature review*. **European Political Science**. Forthcoming.
+- **Zinnatullin, A., Fock, L., & Barkela, B.** (2026). *Evidence in the service of dissent*. **Journal of Science Communication**.
+- **Zinnatullin, A.** (2024). *Authoritarian responsiveness online*. **Policy Studies**.
+- **Zinnatullin, A.** (2023). *Political discussions in online oppositional communities in the non-democratic context*. **Computational Communication Research**.
+- **Zinnatullin, A.** (2023). *Navalny's direct-casting*. **First Monday**.
+
+[Full publication list →](publications.qmd)
+
+## Teaching
+
+### RPTU University Kaiserslautern-Landau
+
+- **Scientific evidence and uncertainty in the research of environmental challenges** (ENCHURE)
+- **Scientific inter- and transdisciplinary work and research** (MuU)
+- **Advanced Data Analysis** (ENCHURE)
+- **Current concepts to analyse environmental challenges with global impact** (ENCHURE)
+
+### Methods instruction
+
+- **SICSS Bologna** — Teaching Assistant, 2022 and 2024
+- **CyberMondays** — Methods Instructor
+- Topics include Git/GitHub, APIs, reproducible workflows, topic modeling, STM, model validation, and data quality
+
+## Mentoring
+
+- Master's research internship collaboration resulting in a co-authored article accepted for publication in **European Political Science**
+
+## Methods
+
+- Computational text analysis and NLP
+- Web scraping and dynamic-platform data collection
+- Natural Language Inference and supervised classification
+- Topic modeling and systematic content validation
+- Panel, multilevel, fixed-effects, and generalized synthetic-control methods
+- Survey and conjoint-style experimental design
+- Systematic reviews and reproducible evidence synthesis
+
+## Professional development
+
+- **2024–2025** — KODAQS Data Quality Academy Certificate Program, first cohort
+
+## Research stays
+
+- **2023** — Chair of Digital Governance, Technical University of Munich (six months)
+- **2016–2017** — Erasmus internship, School of Political Science, University of Bologna, Forlì campus (six months)
+
+## Research interests
+
+- Political communication
+- Digital authoritarianism and governance
+- Protest, polarization, and contentious politics
+- Science communication and uncertainty
+- Computational and quantitative methods
+
+## Contact
+
+- **Institution:** RPTU University Kaiserslautern-Landau
+- **Address:** Fortstraße 7, Building K, Room K 5.19, 76829 Landau, Germany
+- **Email:** [aidar.zinnatullin@rptu.de](mailto:aidar.zinnatullin@rptu.de)
+- **ORCID:** <https://orcid.org/0000-0001-9465-044X>
+- **GitHub:** <https://github.com/aidar-zinnatullin>
