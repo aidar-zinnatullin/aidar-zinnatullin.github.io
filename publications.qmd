@@ -1,6 +1,6 @@
 ---
 title: "Publications and Presentation"
----
+--- 
 ## Articles
 
 - Kogel, M. J., & **Zinnatullin, A.** (2026). *What drives affective polarization? A systematic literature review*. **European Political Science**. <https://doi.org/10.1017/S1682098326100642>
@@ -11,6 +11,8 @@ title: "Publications and Presentation"
 
 - **Zinnatullin, A.**, Fock, L., & Barkela, B. (2026). *Evidence in the service of dissent: Strategic communication of science by German corona-protest movements*. **Journal of Science Communication**, 25 (1). <https://doi.org/10.22323/225220251221034603>
 
+- Albertini, M., Giacomello, G., & **Zinnatullin, A.** (2025). *Russian military bloggers: Corpus and dataset of collected posts, 2022–2023*. **Data in Brief**, 62 (112015). <https://doi.org/10.1016/j.dib.2025.112015>
+
 - **Zinnatullin, A.** (2025). *Authoritarian responsiveness online: Social media strategy of Russian regional governance centers*. **Policy Studies**, 46 (5), 653–675. <https://doi.org/10.1080/01442872.2024.2376082>
 
 - **Zinnatullin, A.** (2023). *Political discussions in online oppositional communities in the non-democratic context*. **Computational Communication Research**, 5 (1). <https://doi.org/10.5117/CCR2023.1.7.ZINN>
@@ -20,8 +22,6 @@ title: "Publications and Presentation"
 - Marchesi, A., **Zinnatullin, A.**, & Nanni, R. (2022). *#iononmiinginocchio: Sports politicisation in the Italian Twitter space. Text data analysis of the Italian public opinion*. **Comunicazione Politica**, 23 (2), 185-206. <https://doi.org/10.3270/104848>
 
 ## Data and research resources
-
-- Albertini, M., Giacomello, G., & **Zinnatullin, A.** (2025). *Russian military bloggers: Corpus and dataset of collected posts, 2022–2023*. **Data in Brief**, 63 (112015). <https://doi.org/10.1016/j.dib.2025.112015>
 
 - Valeriani, A., Ceccobelli, D., **Zinnatullin, A.**, Mechkova, V., Pemstein, D., Seim, B., & Wilson, S. (2025). *Italy 2022 Candidate Dataset*. Digital Society Project. <https://digitalsocietyproject.org/candidate-data/>
 

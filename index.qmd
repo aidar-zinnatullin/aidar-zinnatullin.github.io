@@ -19,5 +19,8 @@ about:
       href: mailto:aidar.zinnatullin@rptu.de
 ---
 
-I am a postdoctoral researcher at RPTU Kaiserslautern-Landau. My work combines **computational social science**, **comparative politics**, and **political communication**. I study grievance articulation, political mobilization, polarization, and public evaluations of institutions and expertise.
+I am a postdoctoral researcher at RPTU Kaiserslautern-Landau. My work combines **computational social science**, **comparative politics**, and **political communication**. I study grievance articulation, political mobilization, polarization, and public evaluations of institutions and expertise. 
+
+P.S. In my free time, I study İske imla, an Arabic-based script used for writing the Tatar language <https://www.instagram.com/tatar.imla/>.
+
 
