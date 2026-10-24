@@ -26,6 +26,8 @@ website:
         text: Publications
       - href: teaching.qmd
         text: Teaching
+      - href: miscellaneous.qmd
+        text: Miscellaneous 
       - href: CV.pdf
         text: CV
     right:
